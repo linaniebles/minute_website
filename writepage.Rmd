@@ -25,4 +25,6 @@ Web pages are written in Rmarkdown. This is basically a text file that allows  y
 
 [Google](https://www.google.com) `write: [Google](https://www.google.com)`
 
+
+
 Using this simple markup you can write most web pages. For images and embedding see the next pages. 

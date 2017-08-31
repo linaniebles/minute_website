@@ -29,4 +29,6 @@ navbar:
           href: yourfile.html
     - text: "Resources"
       href: resources.html
+    - text: "Linas Page"
+      href: lina.html
 output_dir: "."

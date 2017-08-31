@@ -1,0 +1,30 @@
+name: "My place"
+output:
+  html_document:
+  theme: cosmo
+#highlight: textmate
+
+navbar:
+  left:
+  - text: "Home"
+href: index.html
+- text: "Next Steps"
+menu: 
+  - text: "Writing Pages"
+href: writepage.html 
+- text: "Include Images"
+href: images.html
+- text: "Embed a webpage"
+href: embed.html
+- text: "Embed an infographic"
+href: info.html
+- text: "Change the Structure"   
+menu:
+  - text: "Site structure"
+href: structure.html
+- text: "Publish to Github"      
+menu: 
+  - text: "publish"
+href: publish.html
+- text: "submenu item"
+href: yourfile.htm
